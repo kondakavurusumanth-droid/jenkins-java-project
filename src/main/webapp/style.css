@@ -37,7 +37,7 @@ nav a img {
   position: absolute;
   left: 50%;
   top: 50%;
-  border-radius: 4px;
+  border-radius: 5px;
   padding: 70px;
   width: 480px;
   transform: translate(-50%, -50%);
